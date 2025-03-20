@@ -23,8 +23,33 @@
         "songs": [
             {
                 "id": 1,
-                "title": "အလင်းဆိုင်ဆိုင်",
+                "title": "အလင်းဆိုင်",
                 "songlink": "https://drive.google.com/uc?export=download&id=1ZG_ZG99ZqdaqlDJQ6Brws3a_DCJP1yQM"
+            },
+            {
+                "id": 2,
+                "title": "ပထမအသည်းကွဲဇာတ်လမ်း",
+                "songlink": "https://drive.google.com/uc?export=download&id=1MYwRd7oNb7b6ZnidFKXniNzH_Q_gZjLT"
+            },
+            {
+                "id": 3,
+                "title": "အခါလွှန်မိုး",
+                "songlink": "https://drive.google.com/uc?export=download&id=1MUnRqkLF-dDqJHwh546oqrahuHjZ72vd"
+            },
+            {
+                "id": 4,
+                "title": "နွေဦးကံ့ကော်",
+                "songlink": "https://drive.google.com/uc?export=download&id=1MCQBeX2m3scVuxn_ZJEZz-_tDeE-BN0P"
+            },
+            {
+                "id": 5,
+                "title": "မေ့လိုက်တော့",
+                "songlink": "https://drive.google.com/uc?export=download&id=1MWpyUnHx7Co8oNmk3Q9DaxzNE9UZLgqr"
+            },
+            {
+                "id": 6,
+                "title": "မင်းမရှိတယ့်နောက်",
+                "songlink": "https://drive.google.com/uc?export=download&id=1MPmDF9lXUbBfl4RXxigFkUmvgg2UEsw2"
             }
         ]
     }
